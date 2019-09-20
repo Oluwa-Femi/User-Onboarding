@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import FormByFormik from './Component/Form';
+import FormByFormik from './Components/Form';
 import axios from "axios";
 
 const initialUser = {
